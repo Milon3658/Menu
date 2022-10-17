@@ -1,0 +1,19 @@
+.ele-img{
+    height: 366px;
+    width: 600px;
+    margin-top: 40px;
+}
+.saab-img{
+    height: 50px;
+    width: 70px;
+}
+.saab-img-two-ele{
+    height: 120px;
+    width: 160px;
+}
+.saab{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
