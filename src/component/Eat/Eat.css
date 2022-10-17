@@ -1,0 +1,27 @@
+.colonel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.colonel h1{
+    font-size: 65px;
+    color: #226764;
+}
+.colonel p{
+    text-align: center;
+    margin: 30px;
+    color: #F89F49;
+    font-size: 25px;
+}
+.colonel small{
+    color: #1D7976;   
+}
+.colonel button{
+    padding: 15px;
+    border: none;
+    margin-top: 20px;
+    width: 255px;
+    height: 70px;
+    background-color: #1D7976;
+    color: white;
+}
