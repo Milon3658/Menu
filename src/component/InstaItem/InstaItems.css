@@ -1,0 +1,19 @@
+.instaItems-Card{
+    display: flex;
+    flex-direction: column;
+}
+.instaItems-Card p, small{
+    text-align: start;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.icons1{
+    margin-left: 10px;
+}
+.icon{
+    font-size: 25px;
+    padding: 5px;
+}
