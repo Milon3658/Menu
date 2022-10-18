@@ -9,7 +9,7 @@ const Menu = () => {
     var borderStyle = {
         backgroundImage: `url(${borderImage})`,
         width: "440px",
-        height: "800px",
+        height: "650px",
         backgroundRepeat: "no-repeat",
     }
     return (

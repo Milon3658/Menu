@@ -1,0 +1,27 @@
+.lr-img{
+    height: 60px;
+    width: 70px;
+}
+.dine-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.dine-info h2{
+    font-size: 34px;
+    color: #226764;
+    text-align: center;
+}
+.dine-info p{
+    width: 580px;
+    font-size: 16px;
+    text-align: justify;
+}
+.dine-info button{
+    width: 198px;
+    height: 60px;
+    background-color: #226764;
+    color: white;
+    border: none;
+}
