@@ -1,0 +1,33 @@
+.footer{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    background-color: #F89F49;
+    justify-content: space-between;
+}
+.left-p, .right-p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 24px;
+    color: white;
+    text-align: start;
+}
+.right-p{
+    text-align: end;
+}
+.middle h2{
+    font-size: 42px;
+    color: #2E7673;
+}
+.footer2{
+    background-color: #2E7673;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.footer2 p{
+    text-align: start;
+    padding-left: 10px;
+}
