@@ -5,6 +5,7 @@ import Menu from '../Menu/Menu';
 import Story from '../Story/Story';
 import dine from '../../images/dine.png'
 import dine2 from '../../images/indian.png'
+import WhatsOn from '../WhatsOn/WhatsOn';
 
 const Main = () => {
    
@@ -16,6 +17,7 @@ const Main = () => {
             <Menu></Menu>
             <Dine title='Private Dining Rooms Covent Garden' sub={sub1} Btn='MAKE A BOOKING' images={dine}></Dine>
             <Dine style={{flexDirection: 'row-reverse'}}  title='Indian Accents At Colonel Saab Restaurant Covent Garden' sub={sub1} Btn='SUBSCRIBE' images={dine2}></Dine>
+            <WhatsOn></WhatsOn>
         </div>
     );
 };

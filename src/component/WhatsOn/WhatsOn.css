@@ -1,0 +1,19 @@
+.whatsOn-info h1{
+    font-size: 70px;
+    color: #1D7976;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.whatsOn-P{
+    margin: 10px;
+}
+.items{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: center;
+}
+.arrow{
+    font-size: 45px;
+    color: #F89342;
+}

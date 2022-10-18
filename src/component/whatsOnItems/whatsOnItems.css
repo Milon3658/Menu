@@ -1,0 +1,37 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.card h2{
+    font-size: 24px;
+    color: #1D7976;
+}
+.card img{
+    width: 250px;
+    height: 260px;
+}
+.div-p p{
+    color: #E33E3D;
+    font-size: 12px;
+    margin-left:20px ;
+}
+.div-p{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.dis{
+    font-size: 14px;
+    color: #515151;
+    width: 220px;
+    text-align: justify;
+}
+.read-more{
+    width: 120px;
+    height: 36px;
+    background-color: #1D7976;
+    color: white;
+    border: none;
+}
