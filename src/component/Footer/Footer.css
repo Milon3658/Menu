@@ -19,6 +19,10 @@
     font-size: 42px;
     color: #2E7673;
 }
+.middle img{
+    height: 95px;
+    width: 120px;
+}
 .footer2{
     background-color: #2E7673;
     display: flex;
