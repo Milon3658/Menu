@@ -1,0 +1,34 @@
+.menu-img{
+    height: 124px;
+    width: 120px;
+}
+.divider-img{
+    height: 18;
+}
+.menus{
+    height: 500px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.menus h2{
+    font-size: 34px;
+    color: #248080;
+}
+.menus p, small{
+    color: #E33E3D;
+    font-size: 20px;
+    margin: 0;
+}
+.menus small{
+    color: #217E7D;
+    display: block;
+}
+.menus button{
+height: 54px;
+width: 170px;
+border: 2px solid #E33E3D;
+color: #248080;
+}

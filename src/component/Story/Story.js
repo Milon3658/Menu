@@ -23,7 +23,7 @@ const Story = () => {
                     viewpoint with an old soul, and a nostalgic palate
                     of memories aromas and flavours.
                 </p>
-                <img src={logo} alt="" />
+                <img src={logo} alt="" className='rotate'/>
             </div>
         </div>
     );

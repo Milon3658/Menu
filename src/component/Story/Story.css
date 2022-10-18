@@ -20,3 +20,6 @@
     color: #F89F49;
     font-size: 48px;
 } 
+.rotate{
+    transform: rotate(180deg);
+}

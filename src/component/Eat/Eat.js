@@ -6,7 +6,7 @@ import './Eat.css'
 const Eat = () => {
     return (
         <div className='flexible-container'>
-            <img src={eating} alt="" />
+            <img src={eating} alt=""className='eat-img' />
             <div className='colonel'>
                 <div>
                     <img src={left} alt="" />

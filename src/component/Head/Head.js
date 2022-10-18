@@ -20,7 +20,7 @@ const Head = () => {
             <div className='saab'>
                 <img src={logo2} alt="" className='saab-img'/>
                 <img src={elelogo} alt=""className='saab-img-two-ele' />
-                <img src={logo2} alt=""className='saab-img' />
+                <img src={logo2} alt=""className='saab-img rotate' />
             </div>
         </div>
     );
