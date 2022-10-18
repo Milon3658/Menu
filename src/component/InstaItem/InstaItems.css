@@ -1,9 +1,15 @@
 .instaItems-Card{
     display: flex;
     flex-direction: column;
+    background-color: white;
+    border: 1px solid grey;
+}
+.instaItems-Card img{
+    padding: 0;
 }
 .instaItems-Card p, small{
     text-align: start;
+    padding: 10px;
 }
 .icons{
     display: flex;

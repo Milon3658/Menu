@@ -12,9 +12,7 @@ const Insta = () => {
             <InstaItem images={item1} likes="130 likes" title="drowzen_design" munits='10 munits ago'></InstaItem>
             <InstaItem images={item2} likes="130 likes" title="drowzen_design" munits='10 munits ago'></InstaItem>
             <InstaItem images={item1} likes="130 likes" title="drowzen_design" munits='10 munits ago'></InstaItem>
-            <InstaItem images={item2} likes="130 likes" title="drowzen_design" munits='10 munits ago'></InstaItem>
         </div>
     );
 };
-
 export default Insta;
