@@ -1,26 +1,46 @@
-.instaItems-Card{
+.instaItems-Card {
     display: flex;
     flex-direction: column;
     background-color: white;
-    border: 1px solid grey;
+    border-right: 1px solid grey;
+    box-shadow: 10px 10px 5px whitesmoke;
 }
-.instaItems-Card img{
+
+.instaItems-Card img {
     padding: 0;
 
 }
-.instaItems-Card p, small{
+
+.instaItems-Card p,
+small {
     text-align: start;
-    padding: 10px;
+    padding-left: 10px;
+    padding-bottom: 0;
+    margin-bottom: 5px;
+    margin-bottom: 5px;
 }
-.icons{
+
+.like {
+    font-size: 12px;
+}
+
+small {
+    font-size: 12px;
+    color: grey;
+    padding-bottom: 10px;
+}
+
+.icons {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
-.icons1{
+
+.icons1 {
     margin-left: 10px;
 }
-.icon{
-    font-size: 25px;
+
+.icon {
+    font-size: 20px;
     padding: 5px;
 }

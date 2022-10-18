@@ -1,6 +1,9 @@
 import React from 'react';
 import twoele from '../../images/ele-logo.png'
 import './Footer.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {  } from '@fortawesome/free-solid-svg-icons'
+
 
 const Footer = () => {
     return (
@@ -40,7 +43,7 @@ const Footer = () => {
                 <p>PRESS</p>
                 <p>BLOG</p>
                 <div>
-                        
+                        <FontAwesomeIcon></FontAwesomeIcon>
                 </div>
 
             </div>
